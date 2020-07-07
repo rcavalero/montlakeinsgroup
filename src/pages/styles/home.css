@@ -1,0 +1,22 @@
+.background {
+    margin: auto;
+    /* The image used */
+    background-image: url("../../images/marina.jpg");
+    /* opacity: 50%; */
+
+    /* Full height and width */
+    height: 90vh;
+    width: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    /* position: relative; */
+
+}
+
+.logo {
+    color: white;
+}

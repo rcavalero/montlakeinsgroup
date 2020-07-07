@@ -15,7 +15,12 @@ function Home() {
                     <div className="col">
                     {/* <div className="col-xs-12 col-md-7 col-lg-8"> */}
                   <div className="card-body align-center">
-                    <p className="card-text text-justify text-light">Full-Stack Web Developer with extensive insurance business systems operations and analysis experience.  Certified in Full-Stack web development from the University of Washington.  Proven ability to solve problems and increase efficiency for the user experience.  Bringing extensive knowledge of front office business experience to the web development process that includes configuring Agency Management Systems, managing databases, writing SQL based reports, managing business processes and creating advanced level Excel spreadsheets.
+                    <p className="card-text text-justify text-light">
+                       Aliqua minim fugiat aute duis. Consequat labore velit est eu. Deserunt id consequat magna quis. Magna laboris incididunt dolor fugiat irure velit et reprehenderit. Occaecat ipsum irure labore nostrud irure irure. Pariatur consequat aliqua cupidatat et mollit. Proident magna deserunt sint laborum ex duis nostrud esse culpa enim ullamco proident voluptate.
+
+In laborum incididunt magna nisi do ex magna. Adipisicing ut ipsum ad velit aute. Occaecat sint officia commodo officia ipsum proident Lorem in. Anim sunt sit elit aliquip cillum irure. Qui proident et consectetur aliqua.
+
+Dolore proident sint dolore ad enim labore dolore voluptate minim pariatur. Anim esse sunt occaecat incididunt ea quis esse veniam excepteur ipsum proident. Enim consequat do fugiat cillum culpa sunt. Non amet ut Lorem incididunt est consectetur consequat tempor quis Lorem nulla nisi ex veniam. Elit culpa officia ad ea occaecat pariatur ipsum aute ipsum qui dolore. 
                     </p>
                   </div>
                 </div>

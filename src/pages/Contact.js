@@ -32,14 +32,14 @@ function Contact() {
                         name="email"
                         // onChange={props.handleAddRecommendation}
                         id="Email"
-                        type="text" />
+                        type="email" />
                 </div>
                 </div>
                 
 
                 <div className="row inputbox">
-                <div className="input-field col 12" >
-                    <label htmlFor="Subject">Subject</label>
+                <div className="input-field " >
+                    <label htmlFor="Subject">Subject: </label>
                     <input
                         // value={props.newRec.brand}
                         name="subject"
@@ -57,7 +57,7 @@ function Contact() {
                         name="message"
                         // onChange={props.handleAddRecommendation}
                         id="Message"
-                        type="text" />
+                        type="textarea" />
                 </div>
                 </div>
                 

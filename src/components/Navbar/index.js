@@ -48,10 +48,10 @@ function Navbar() {
             </Link>
 
             <Link
-              to="/contact"
-              className={window.location.pathname === "/contact" ? "nav-link active" : "nav-link"}
+              to="/Home3"
+              className={window.location.pathname === "/Home3" ? "nav-link active" : "nav-link"}
             >
-              Contact
+              Home3
             </Link>
 
             </div>

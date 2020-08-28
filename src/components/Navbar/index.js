@@ -10,12 +10,14 @@ function Navbar() {
 
       <div className="container">
         <div className="row w-100">
-          <div className="col-sm-12 col-md-3 col-lg-8 margin-auto">
-            <div className="container navCont h-100 pr-3 flex-row navbar-nav justify-content-md-start  align-middle">
-              <p className = "text-light m-0">
+          <div className="col-sm-12 col-md-3 col-lg-8 h100 margin-auto">
+            <div className="container navCont navLogo h-100 pr-3 flex-row navbar-nav align-items-center">
+              {/* <p className = "text-light m-0"> */}
                 {/* This will become the logo */}
-            Montlake Insurance Group - 206.555.1212
-              </p>
+                <img src={require("../../images/montlakeinsgrplogonav.png")} className="logo" alt="MontlakeLogo"></img>
+
+            {/* Montlake Insurance Group - 206.555.1212 */}
+              {/* </p> */}
 
 
               {/* <a className="nav-link pr-2" href="mailto:r.cavalero@comcast.net">Email</a>
@@ -39,10 +41,10 @@ function Navbar() {
             </Link>
 
             <Link
-              to="/products"
-              className={window.location.pathname === "/products" ? "nav-link active" : "nav-link"}
+              to="/home2"
+              className={window.location.pathname === "/home2" ? "nav-link active" : "nav-link"}
             >
-              Products
+              Home2
             </Link>
 
             <Link

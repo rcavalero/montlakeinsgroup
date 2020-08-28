@@ -1,22 +1,25 @@
 .background {
-    margin: auto;
-    /* The image used */
-    background-image: url("../../images/marina.jpg");
-    /* opacity: 50%; */
-
-    /* Full height and width */
     height: 90vh;
-    width: 100%;
-
-    /* Center and scale the image nicely */
+    background-image: url("../../images/montlakebridge.png");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
-
-    /* position: relative; */
+    background-size: 100% 100%;
 
 }
 
 .logo {
     color: white;
+}
+
+.textrow {
+    padding-top: 50px;
+}
+
+.logorow {
+    padding-top: 20px;
+    /* padding-bottom: 20px; */
+}
+
+.tagline {
+    padding-top: 20px;
 }

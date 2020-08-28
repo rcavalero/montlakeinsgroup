@@ -2,7 +2,7 @@ import React from "react";
 import "../pages/styles/home.css";
 
 
-function Home() {
+function Home2() {
     return (
         <div className="background">
             <div className="container">
@@ -16,6 +16,11 @@ function Home() {
                   </div>
                 </div>
             </div>
+            <div className="row tagline">
+                    <div className="col text-center">
+                        <h3>"Your Residential Property Specialist"</h3>
+                    </div>
+                </div>
             <div className="row logorow justify-content-center">
             <div className="col-4">
                     </div>
@@ -25,14 +30,9 @@ function Home() {
                     <div className="col-4">
                     </div>
                 </div>
-                <div className="row tagline">
-                    <div className="col text-center">
-                        <h3>"Your Residential Property Specialist"</h3>
-                    </div>
-                </div>
         </div>
         </div>
     )
 }
 
-export default Home;
+export default Home2;
